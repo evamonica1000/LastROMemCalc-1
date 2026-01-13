@@ -16,7 +16,7 @@ const initializeUsers = () => {
       data: {} 
     }],
     ['admin@tmmin-sunter2.com', { 
-    password: 'admin123', 
+    password: 'sunter123', 
     company: 'TMMIN Sunter 2', 
     role: 'admin',
     data: {} 
